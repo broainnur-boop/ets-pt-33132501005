@@ -1,0 +1,6 @@
+Nama: Mochamad Ainnur Wachid
+NRP: 33132501005
+
+Working tree: Tempat file dikerjakan dan perubahan dilakukan.
+Staging area: Tempat perubahan dipilih sebelum commit.
+Repository: Tempat riwayat commit disimpan.
